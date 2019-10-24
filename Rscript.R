@@ -1,4 +1,4 @@
-# author: SC
+# author: MC
 # project: github tutorial
 # ---
 
