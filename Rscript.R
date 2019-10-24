@@ -19,5 +19,6 @@
   xyplot(mpg ~ hp | factor(paste('cyl:',cyl)),
          data = mtcars,
          col = "orange")
+ #  cars plot with ggplot
 
 # --- end-of-script --- 
